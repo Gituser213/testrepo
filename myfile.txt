@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Its my first text file.
+=======
+Its my first text file
+>>>>>>> 4c45dba (file updated)
